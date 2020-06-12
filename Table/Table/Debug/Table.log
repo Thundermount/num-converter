@@ -1,4 +1,0 @@
-﻿  Number.cpp
-Number.cpp(33): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
-  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdlib.h(1334): note:  см. объявление "itoa"
-  Table.vcxproj -> D:\Documents\Visual Studio 2017\Projects\Table\Debug\Table.exe
